@@ -3,3 +3,4 @@ matplotlib
 plotly
 pandas
 display
+IPython.display
