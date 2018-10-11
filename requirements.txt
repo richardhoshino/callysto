@@ -5,3 +5,4 @@ pandas
 display
 IPython
 grinpy
+xlrd
