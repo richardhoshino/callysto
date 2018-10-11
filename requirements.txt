@@ -4,3 +4,4 @@ plotly
 pandas
 display
 IPython
+grinpy
