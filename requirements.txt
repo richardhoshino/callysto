@@ -6,4 +6,3 @@ display
 IPython
 grinpy
 xlrd
-optimal_colorings
