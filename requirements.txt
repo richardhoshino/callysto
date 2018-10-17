@@ -6,3 +6,4 @@ display
 IPython
 grinpy
 xlrd
+OptimalGraphColoring
