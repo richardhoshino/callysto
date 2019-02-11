@@ -9,3 +9,4 @@ grinpy
 xlrd
 scipy
 qgrid
+mymagics
